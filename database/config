@@ -1,0 +1,9 @@
+{
+     "connection":{
+        "server" : "localhost",
+        "user" : "cristobaldb",
+        "password" : "1234",
+        "database" : "Contact",
+        "port": "3306"
+    }    
+}
